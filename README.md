@@ -13,7 +13,7 @@ Latest Object Memory Management for Temporally Consistent Video Instance Segment
 See [Datasets](datasets/README.md) & [Installation](INSTALL.md)
 
 ## Getting Started
-See [Getting Started with CAVIS](GETTING_STARTED.md)
+See [Getting Started with LOMM](GETTING_STARTED.md)
 
 ## Model Zoo
 We provide our trained models [here](MODEL_ZOO.md)
