@@ -2,6 +2,9 @@
 Latest Object Memory Management for Temporally Consistent Video Instance Segmentation
 [**Paper**](https://arxiv.org/abs/2507.19754) \| [**Project**](https://seung-hun-lee.github.io/projects/LOMM/)
 
+<img src="https://github.com/Seung-Hun-Lee/CAVIS/blob/main/assets/LOMM_ICCV_2025.png" width="800"/>
+</div>
+
 ## News
 - We release our code with trained models `2025.09.17`
 - Our paper has also been accepted to **MemVis: The 1st Workshop on Memory and Vision** at ICCV 2025
