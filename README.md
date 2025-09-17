@@ -7,7 +7,7 @@ Latest Object Memory Management for Temporally Consistent Video Instance Segment
 
 ## News
 - We release our code with trained models `2025.09.17`
-- Our paper has also been accepted to **MemVis: The 1st Workshop on Memory and Vision** at ICCV 2025
+- Our paper has also been accepted to **MemVis: The 1st Workshop on Memory and Vision** at ICCV 2025 `2025.08.30`
 
 ## Data preparation & Installation
 See [Datasets](datasets/README.md) & [Installation](INSTALL.md)
