@@ -1,0 +1,15 @@
+_BASE_: ../LOMM_Online_R50.yaml
+MODEL:
+  BACKBONE:
+    NAME: "SAMAdapter"
+  SAM_ADAPTER:
+    FINETUNE: False 
+    NAME: 'vith'
+    VIT_WEIGHT: 'pretrained/sam_vit_h_4b8939.pth'
+    FREEZE_VIT: True
+  PIXEL_MEAN: [123.675, 116.280, 103.530]
+  PIXEL_STD: [58.395, 57.120, 57.375]
+  MASK_FORMER:
+    NUM_OBJECT_QUERIES: 200
+SOLVER:
+  IMS_PER_BATCH: 8
